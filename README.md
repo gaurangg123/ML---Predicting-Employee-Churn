@@ -15,8 +15,11 @@ The dataset used for this project contains employee-related features such as sat
 
 ## Results
 Logistic Regression Accuracy: 75%
+
 Random Forest Accuracy: 98%
+
 Gradient Boosting Accuracy: 97%
+
 
 Based on the evaluation, the random forest model achieved the highest accuracy among the three models tested.
 
